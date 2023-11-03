@@ -2,8 +2,9 @@ AIM: Create an application to create JSON URL for Contact which have field(id, N
 Add Google Map Activity which displays location which is received in JSON Data in google Maps activity and set the zoom level to 10.
 
 Output:
-![Screenshot_2023-11-01-22-37-44-18_dfea30fbaae8afb27b7473615ea8ae68](https://github.com/Rohan3429/MAD_Practical-10_21012021113/assets/98172369/29e102cb-6bd8-4434-9661-17f457ea2fc5)
+![image](https://github.com/Jainishthakor/MAD_Practical-10_21012021113/assets/139530265/91c96db9-212c-4c63-867d-97c41b6602d5)
 
-![Screenshot_2023-11-01-22-38-46-82_dfea30fbaae8afb27b7473615ea8ae68](https://github.com/Rohan3429/MAD_Practical-10_21012021113/assets/98172369/a9d8c069-ddc7-46c0-93d5-769b197bd4eb)
+![image](https://github.com/Jainishthakor/MAD_Practical-10_21012021113/assets/139530265/de6f9df3-24f5-46cc-97d5-645f4d7c4896)
+
 
 
